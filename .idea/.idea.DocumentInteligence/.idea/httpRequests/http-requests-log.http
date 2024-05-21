@@ -1,0 +1,784 @@
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 4,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 4,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 4,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 4,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 4,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 4,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 3,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 3,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 3,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "PICI",
+  "supplierId": 3,
+  "invoiceLocation": "KURVA"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 68
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 75
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Stobich",
+  "service": "Poziarne",
+  "customerNumber": "123"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 75
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Stobich",
+  "service": "Poziarne",
+  "customerNumber": "123"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 92
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Ina spolocnost, a.s.",
+  "service": "Smetie",
+  "customerNumber": "654654654"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Východoslovenská vodárenská spoločnosť, a.s.",
+  "service": "Vodné a stočné",
+  "customerNumber": "2000030790"
+}
+
+###
+
+POST http://localhost:5134/api/v1/suppliers/add-supplier
+Content-Type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Východoslovenská vodárenská spoločnosť, a.s.",
+  "service": "Vodné a stočné",
+  "customerNumber": "2000030790"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 3,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "a.xml",
+  "supplierId": 2,
+  "invoiceLocation": "a/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 122
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "88877131.xml",
+  "supplierId": 2,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 122
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "654",
+  "invoiceName": "88877131.xml",
+  "supplierId": 1,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 1,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 2,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 2,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 1,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 1,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 1,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 2,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 2,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+
+POST http://localhost:5134/api/v1/invoices/add-invoice
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "invoiceNumber": "8x8877131",
+  "invoiceName": "88877131.xml",
+  "supplierId": 2,
+  "invoiceLocation": "x88877123/131.pdf"
+}
+
+###
+

@@ -1,4 +1,29 @@
+###
 @DocumentInteligence_HostAddress = http://localhost:5134
 
-GET {{DocumentInteligence_HostAddress}}/weatherforecast/
+GET {{DocumentInteligence_HostAddress}}/vvs/
 Accept: application/json
+
+###
+GET {{DocumentInteligence_HostAddress}}/api/v1/suppliers/get-suppliers
+
+###
+POST {{DocumentInteligence_HostAddress}}/api/v1/suppliers/add-supplier
+Content-Type: application/json
+
+{
+  "name": "Test",
+  "service": "Test",
+  "customerNumber": "654"
+}
+
+###
+POST {{DocumentInteligence_HostAddress}}/api/v1/invoices/add-invoice
+Content-Type: application/json
+
+{
+  "invoiceNumber": "321321",
+  "invoiceName": "aaa",
+  "supplierId": 4,
+  "invoiceLocation": "aaa"
+}
